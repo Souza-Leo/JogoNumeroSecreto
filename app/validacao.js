@@ -29,10 +29,6 @@ function verificaSeChutePossuiValorValido(chute) {
     }
 }
 
-function chuteMaiorOuMenorQueValor(numero) {
-    return numero > maiorValor || numero < menorValor
-}
-
 function chuteInvalido(numero) {
     return Number.isNaN(numero)
 }
