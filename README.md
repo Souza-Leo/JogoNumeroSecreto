@@ -2,65 +2,55 @@
 
 Jogo simples desenvolvido acompanhando o curso "JavaScript: validações e reconhecimento de voz" na Alura.
 
-## Step 1:
+## Conhecimento obtido:
 
--  Iniciando o desenvolvimento do jogo de reconhecimento de voz com JavaScript do zero;
+-  Como desenvolver um jogo de reconhecimento de voz com JavaScript do zero.
 
-- Estruturando a página do jogo com HTML;
+- Estruturar a página do jogo com HTML.
 
-- Escolhendo a fonte, as cores e estilizando toda parte visual.
+- Escolher a fonte, as cores e estilizar toda parte visual.
 
- ## Step 2:
+- Criar uma pasta para manter todo código JavaScript, fazer o import do script no HTML, e criar a escolha de um número pseudo-aleatório.
 
-- Criando a pasta para manter todo código JavaScript, fazendo o import do script no HTML, e criando a escolha de um número pseudo-aleatório;
+- Manipular o menor e o maior valor de forma dinâmica, modificar o conteúdo do HTML através do JavaScript.
 
-- Manipulando o menor e o maior valor de forma dinâmica, modificando o conteúdo do HTML através do JavaScript.
+- Utilizar o Web Speech API para realizar o reconhecimento de voz do jogo.
 
- ## Step 3:
+- Manipular os dados de voz reconhecidos.
 
-- Utilizando o Web Speech API para realizar o reconhecimento de voz do nosso jogo;
+- Exibir o que foi falado na tela.
 
-- Aprendendo como manipular os dados de voz reconhecidos;
+- Validar os dados de entrada de áudio.
 
-- Exibindo o que foi falado na tela.
+- Criar a tela de sucesso, caso o chute seja igual ao número secreto.
 
- ## Step 4:
-
-- Aprendendo como validar os dados de entrada de áudio;
-
-- Criando a tela de sucesso, caso o chute seja igual ao número secreto;
-
-- Adicionando informações caso o dado de entrada seja válido, porém, diferente do objetivo.
-
- ## Final:
+- Adicionar informações caso o dado de entrada seja válido, porém, diferente do objetivo.
 
 - Para melhorar a experiência de quem for jogar, foi criado um botão para jogar novamente na tela de acerto.
-
-Enviando arquivos para o Github.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
 # Como instalar e jogar:
 
-## Step 1:
+## 1:
 
 Baixar os arquivos do Repositório e abrir o arquivo index.html.
 
 ![JogoNumeroSecreto](https://github.com/Souza-Leo/JogoNumeroSecreto/assets/159589936/ec44d2ce-cfbb-460d-b912-72a4d22ebbe5)
 
-## Step 2: 
+## 2: 
 
 Autorizar o uso do microfone para que seja possível o reconhecimento de voz.
 
 ![JogoNumeroSecretoMic](https://github.com/Souza-Leo/JogoNumeroSecreto/assets/159589936/2e44cf27-0dd5-48dd-8e29-8beb77acdf8e)
 
-## Step 3:
+## 3:
 
 Basta falar um número e o jogo vai indicar se está este é menor ou maior até que a resposta correta seja encontrada.
 
 ![JogoNumeroSecretoErrou](https://github.com/Souza-Leo/JogoNumeroSecreto/assets/159589936/cfb2e77d-cabb-478e-9043-d15003f1fcca)
 
-## Step 4:
+## 4:
 
 Para recomeçar basta clicar em "Jogar Novamente".
 
